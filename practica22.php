@@ -41,6 +41,7 @@
 
             <br><br>
             <footer>Sol Reséndiz</footer><br><br>
+            <!--Link que te dirige a la siguiente página-->
             <a href="practica23.php">Siguiente práctica</a>
         </section>
     </center>
