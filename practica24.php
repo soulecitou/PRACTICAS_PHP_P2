@@ -35,6 +35,7 @@
 
             </section>
         </main>
+        <!--Link que te dirige a la siguiente página-->
         
         <br><br> <a href="practica25.php">Siguiente práctica</a><br><br>
         <footer>Sol Reséndiz</footer>
